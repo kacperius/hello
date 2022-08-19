@@ -10,5 +10,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    int koko=5;
     return 0;
 }
